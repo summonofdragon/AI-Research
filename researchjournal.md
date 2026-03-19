@@ -6,7 +6,7 @@
 This week's method is applying comparative analysis. By the examples of detection over emotions with different models and values of detecting emotions, the same image/text is imputted and results were compared to find differences or similarities in the results. 
 
 ### How I Applied It
-(What did I test? What model/Space from my Collection did I use? What inputs did I try?)
+I applied the analysis by using different models and emotion categories to test a sample sentence. For example, I would choose AI spaces like 
 
 ### What I Expected
 (My prediction before testing)
